@@ -1,4 +1,3 @@
-
 <h1 align="center">Olá! Me chamo Lucas Borges Leça</h1>
 
 ###
@@ -33,13 +32,13 @@
   <a href="https://www.instagram.com/lugauls/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/lucas-borges-1b7556239" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-borges-1b7556239/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="lucasborges046@gmail.com" target="_blank">
+  <a href="mailto:lucasborges046@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="336978636072812555" target="_blank">
+  <a href="https://discordapp.com/users/336978636072812555" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://x.com/Lugauls" target="_blank">
