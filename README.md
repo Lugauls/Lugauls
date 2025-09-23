@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Sou desenvolvedor Full Stack com interesse constante por tecnologia, games e um olhar curioso sobre DevOps.<br>Sempre estou buscando aprender e me aprimorar ainda mais nas tecnologias que utilizo, explorando novos desafios para evoluir como profissional e contribuir com projetos que fazem a diferença.</p>
+<p align="center">Sou desenvolvedor Back-end com interesse constante por tecnologia, games e um olhar curioso sobre DevOps.<br>Sempre estou buscando aprender e me aprimorar ainda mais nas tecnologias que utilizo, explorando novos desafios para evoluir como profissional e contribuir com projetos que fazem a diferença.</p>
 
 ###
 
