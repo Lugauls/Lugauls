@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Sou desenvolvedor Full Stack com interesse constante por tecnologia, games e um olhar curioso sobre IA.<br>Sempre estou buscando aprender e me aprimorar ainda mais nas tecnologias que utilizo, explorando novos desafios para evoluir como profissional e contribuir com projetos que fazem a diferença.</p>
+<p align="center">Sou desenvolvedor Full Stack com interesse constante por tecnologia, games.<br>Sempre estou buscando aprender e me aprimorar ainda mais nas tecnologias que utilizo, explorando novos desafios para evoluir como profissional.</p>
 
 ###
 
@@ -11,21 +11,21 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
 </div>
 
 ###
@@ -51,18 +51,16 @@
 ###
 
 <div align="center">
-  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lugauls&show_icons=true&theme=dracula)](https://github.com/Lugauls/github-readme-stats&show_icons=true&theme=dracula)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lugauls&layout=compact&theme=dracula)
- 
+  <img src="https://raw.githubusercontent.com/Lugauls/Lugauls/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Lugauls/Lugauls/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lugauls/Lugauls/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lugauls/Lugauls/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lugauls/Lugauls/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lugauls/Lugauls/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lugauls/Lugauls/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lugauls/Lugauls/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
